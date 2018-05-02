@@ -1,0 +1,8 @@
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\bin\Debug\yty_Game(Love)_180502.exe
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\bin\Debug\yty_Game(Love)_180502.pdb
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\obj\Debug\yty_Game(Love)_180502.csprojResolveAssemblyReference.cache
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\obj\Debug\yty_Game_Love__180502.Form1.resources
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\obj\Debug\yty_Game_Love__180502.Properties.Resources.resources
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\obj\Debug\yty_Game(Love)_180502.csproj.GenerateResource.Cache
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\obj\Debug\yty_Game(Love)_180502.exe
+c:\users\yurifeng\documents\visual studio 2015\Projects\yty_Game(Love)_180502\yty_Game(Love)_180502\obj\Debug\yty_Game(Love)_180502.pdb
